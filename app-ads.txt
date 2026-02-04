@@ -4056,3 +4056,4 @@ zoomd.com,88478941,RESELLER
 pangleglobal.com, 5028214, DIRECT
 
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+facebook.com, 825372703542227, DIRECT, c3e20eee3f780d68
